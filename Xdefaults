@@ -1,0 +1,27 @@
+XTerm*background:       black
+XTerm*foreground:       white
+XTerm*pointerColor:     blue
+XTerm*pointerColorBackground:   black
+XTerm*cursorColorBackground:    white
+XTerm*cursorColor:      blue
+XTerm*Tek*background:   black
+XTerm*borderColor:      RoyalBlue
+XTerm*highlight:        RoyalBlue
+XTerm*font:     *-fixed-*-*-*-20-*
+XTerm*boldFont: *-fixed-*-*-*-20-*
+XTerm*faceSize: 30
+XTerm*wideFont: true
+XTerm*eightBitInput: false
+XTerm*metaSendsEscape: true
+XTerm*scrollKey:        on
+XTerm*scrollBar:        off
+XTerm*jumpScroll:       on
+XTerm*pointerShape:     arrow
+XTerm*saveLines:        500
+XTerm*loginShell:       on
+XTerm*vt100*geometry:   80x40
+XTerm*eightBitInut:   false
+XTerm*metaSendsEscape:   true
+
+*customization: -color
+XTerm*termName:  xterm-256color
